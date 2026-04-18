@@ -1,5 +1,4 @@
-from main import SignBridgeCare
+from main import App
 
 if __name__ == "__main__":
-    app = SignBridgeCare()
-    app.run()
+    App().run()
